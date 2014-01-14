@@ -1,0 +1,9 @@
+Building Travelcoin
+
+See doc/readme-qt.rst for instructions on building Travelcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Travelcoin.
+
+See doc/build-*.txt for instructions on building travelcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Travelcoin.
